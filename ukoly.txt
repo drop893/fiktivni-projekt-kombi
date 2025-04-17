@@ -1,0 +1,11 @@
+151 - pridat do stranky novy paragraf s loremem (Karel)
+7819 - vytvori slozku zviratka a prida soubor kocka.txt kam napise "mnau" (Radim)
+1547 - prida do indexu ul seznam s 3 li (Matej)
+7848 - prida do slozky zviratka soubor pex.txt "haf" (Hanka)
+9547 - vytvori novy html soubor kontakt (staci html kostar a nadpis) (Josef)
+743 - upravi hlavni nadpis "Novy fiktivni projekt" (Vendy)
+7366 - prida k hlavnimu nadpisu libovolny komentar (Sandra)
+2468 - vytvori .gitignore vlzi tam vendor/, *.log, hesla.txt (Jana)
+6784 - pridat nekam do stranky h2 element (Hanka 2)
+
+5513 - pridat css a js (Tony)
